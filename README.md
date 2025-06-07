@@ -30,22 +30,28 @@ This repository contains a collection of LaTeX lab programs designed for academi
 
 ---
 
-## 📂 Lab Program List
+# 📂 LaTeX Lab Programs
 
-| Sl.No | Experiment Description |
-|-------|------------------------|
-| 1     | Create a document with two sections, headers, and footers. |
-| 2     | Design an abstract/summary layout using LaTeX. |
-| 3     | Build a VTU project title page using logos and text formatting. |
-| 4     | Create a certificate page with placeholders. |
-| 5     | Construct a student marks table with appropriate headings. |
-| 6     | Insert side-by-side graphics using the subfigure environment. |
-| 7     | Display two mathematical equations using LaTeX math mode. |
-| 8     | Demonstrate the use of theorems, definitions, corollaries, and lemmas. |
-| 9     | Cite at least 10 sources and generate a bibliography. |
-| 10    | Create a tree diagram/hierarchical structure using TikZ. |
-| 11    | Write and format an algorithm using algorithmic/algorithm2e. |
-| 12    | Design a report and article format using appropriate LaTeX commands. |
+Welcome to the LaTeX Lab Program repository. Click on "📄 View Code" to see the LaTeX source and on "📤 View Output" to preview the generated PDF.
+
+---
+
+## ✅ Lab Program List
+
+| Sl.No | Experiment Description                                                                 | Code        | Output       |
+|-------|-----------------------------------------------------------------------------------------|-------------|--------------|
+| 1     | Create a document with two sections, headers, and footers.                             | [📄 View Code](Program1/main.tex) | [📤 View Output](Program1/main.pdf) |
+| 2     | Design an abstract/summary layout using LaTeX.                                         | [📄 View Code](Program2/main.tex) | [📤 View Output](Program2/main.pdf) |
+| 3     | Build a VTU project title page using logos and text formatting.                        | [📄 View Code](Program3/main.tex) | [📤 View Output](Program3/main.pdf) |
+| 4     | Create a certificate page with placeholders.                                           | [📄 View Code](Program4/main.tex) | [📤 View Output](Program4/main.pdf) |
+| 5     | Construct a student marks table with appropriate headings.                             | [📄 View Code](Program5/main.tex) | [📤 View Output](Program5/main.pdf) |
+| 6     | Insert side-by-side graphics using the subfigure environment.                          | [📄 View Code](Program6/main.tex) | [📤 View Output](Program6/main.pdf) |
+| 7     | Display two mathematical equations using LaTeX math mode.                              | [📄 View Code](Program7/main.tex) | [📤 View Output](Program7/main.pdf) |
+| 8     | Demonstrate the use of theorems, definitions, corollaries, and lemmas.                 | [📄 View Code](Program8/main.tex) | [📤 View Output](Program8/main.pdf) |
+| 9     | Cite at least 10 sources and generate a bibliography.                                  | [📄 View Code](Program9/main.tex) | [📤 View Output](Program9/main.pdf) |
+| 10    | Create a tree diagram/hierarchical structure using TikZ.                               | [📄 View Code](Program10/main.tex) | [📤 View Output](Program10/main.pdf) |
+| 11    | Write and format an algorithm using algorithmic/algorithm2e.                           | [📄 View Code](Program11/main.tex) | [📤 View Output](Program11/main.pdf) |
+| 12    | Design a report and article format using appropriate LaTeX commands.                   | [📄 View Code](Program12/main.tex) | [📤 View Output](Program12/main.pdf) |
 
 ---
 
