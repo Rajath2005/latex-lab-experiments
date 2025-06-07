@@ -40,7 +40,7 @@ Welcome to the LaTeX Lab Program repository. Click on "📄 View Code" to see th
 
 | Sl.No | Experiment Description                                                                 | Code        | Output       |
 |-------|-----------------------------------------------------------------------------------------|-------------|--------------|
-| 1     | Create a document with two sections, headers, and footers.                             | [📄 View Code](Program1/main.tex) | [📤 View Output](Program1/main.pdf) |
+| 1     | Create a document with two sections, headers, and footers.                             | [📄 View Code](Latex_lab/Program1/First.tex) | [📤 View Output](Latex_lab/Program1/First.pdf) |
 | 2     | Design an abstract/summary layout using LaTeX.                                         | [📄 View Code](Program2/main.tex) | [📤 View Output](Program2/main.pdf) |
 | 3     | Build a VTU project title page using logos and text formatting.                        | [📄 View Code](Program3/main.tex) | [📤 View Output](Program3/main.pdf) |
 | 4     | Create a certificate page with placeholders.                                           | [📄 View Code](Program4/main.tex) | [📤 View Output](Program4/main.pdf) |
