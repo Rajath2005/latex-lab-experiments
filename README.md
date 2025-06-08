@@ -50,8 +50,9 @@ Welcome to the LaTeX Lab Program repository. Click on "📄 View Code" to see th
 | 8     | Demonstrate the use of theorems, definitions, corollaries, and lemmas.                 | [📄 View Code](Latex_lab/Program8/Eight.tex) | [📤 View Output](Latex_lab/Program8/Eight.pdf) |
 | 9     | Cite at least 10 sources and generate a bibliography.                                  | [📄 View Code](Latex_lab/Program9/Ninth.tex) | [📤 View Output](Latex_lab/Program9/Ninth.pdf) |
 | 10    | Create a tree diagram/hierarchical structure using TikZ.                               | [📄 View Code](Latex_lab/Program10/Tenth.tex) | [📤 View Output](Latex_lab/Program10/Tenth.pdf) |
-| 11    | Write and format an algorithm using algorithmic/algorithm2e.                           | [📄 View Code](Program11/main.tex) | [📤 View Output](Program11/main.pdf) |
-| 12    | Design a report and article format using appropriate LaTeX commands.                   | [📄 View Code](Program12/main.tex) | [📤 View Output](Program12/main.pdf) |
+| 11    | Write and format an algorithm using algorithmic/algorithm2e.                           | [📄 View Code](Latex_lab/Program11/Eleventh.tex) | [📤 View Output](Latex_lab/Program11/Eleventh.pdf) |
+| 12a   | Design a report format using appropriate LaTeX commands.            | [📄 View Code](Latex_lab/Program12b/Twevelthb.tex) | [📤 View Output](Latex_lab/Program12b/Twevelthb.pdf) |
+| 12b   | Design an article format using appropriate LaTeX commands.          | [📄 View Code](Latex_lab/Program12a/twevelth_a.tex) | [📤 View Output](Latex_lab/Program12a/twevelth_a.pdf) |
 
 ---
 
