@@ -46,7 +46,7 @@ Welcome to the LaTeX Lab Program repository. Click on "📄 View Code" to see th
 | 4     | Create a certificate page with placeholders.                                           | [📄 View Code](Latex_lab/Program4/Fourth.tex) | [📤 View Output](Latex_lab/Program4/Fourth.pdf) |
 | 5     | Construct a student marks table with appropriate headings.                             | [📄 View Code](Latex_lab/Program5/Fifth.tex) | [📤 View Output](Latex_lab/Program5/Fifth.pdf) |
 | 6     | Insert side-by-side graphics using the subfigure environment.                          | [📄 View Code](Latex_lab/Program6/Sixth.tex) | [📤 View Output](Latex_lab/Program6/Sixth.pdf) |
-| 7     | Display two mathematical equations using LaTeX math mode.                              | [📄 View Code](Program7/main.tex) | [📤 View Output](Program7/main.pdf) |
+| 7     | Display two mathematical equations using LaTeX math mode.                              | [📄 View Code](Latex_lab/Program7/Seventh.tex) | [📤 View Output](Latex_lab/Program7/Seventh.pdf) |
 | 8     | Demonstrate the use of theorems, definitions, corollaries, and lemmas.                 | [📄 View Code](Program8/main.tex) | [📤 View Output](Program8/main.pdf) |
 | 9     | Cite at least 10 sources and generate a bibliography.                                  | [📄 View Code](Program9/main.tex) | [📤 View Output](Program9/main.pdf) |
 | 10    | Create a tree diagram/hierarchical structure using TikZ.                               | [📄 View Code](Program10/main.tex) | [📤 View Output](Program10/main.pdf) |
