@@ -1,0 +1,11 @@
+\documentclass{article}
+\usepackage[ruled,linesnumbered]{algorithm2e}
+\begin{document}
+	\begin{algorithm}
+		\caption{Euclid's Algorithm}
+		\label{Euclid}
+		\KwData{Input two integers $a$ and $b$}
+		\KwResult{GCD of $a$ and $b$}
+		\eIf{$b$=0}{return $a$}{return GCD ($b$,$a$ $mod$ $b$)}
+	\end{algorithm}
+\end{document}
