@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Latex_lab/image.png" alt="LaTeX" title="LaTeX" />
+</p>
+
 # 🧪 LaTeX Lab Programs for VTU | B.E/B.Tech
 
 This repository contains a collection of LaTeX lab programs designed for academic lab practice and preparation for lab exams, especially aligned with VTU (Visvesvaraya Technological University) syllabus. Each `.tex` file demonstrates a different LaTeX feature or document structure — from basic formatting to complex algorithms and diagrams.
