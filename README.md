@@ -57,7 +57,56 @@ Welcome to the LaTeX Lab Program repository. Click on "📄 View Code" to see th
 ---
 
 ## 📁 Repository Structure
-
+```text
+latex-lab-experiments/
+├── Latex_lab/
+│   ├── Program1/
+│   │   ├── First.pdf
+│   │   └── First.tex
+│   ├── Program2/
+│   │   ├── Second.pdf
+│   │   └── Second.tex
+│   ├── Program3/
+│   │   ├── Third.pdf
+│   │   └── Third.tex
+│   ├── Program4/
+│   │   ├── Fourth.pdf
+│   │   └── Fourth.tex
+│   ├── Program5/
+│   │   ├── Fifth.pdf
+│   │   └── Fifth.tex
+│   ├── Program6/
+│   │   ├── Sixth.pdf
+│   │   └── Sixth.tex
+│   ├── Program7/
+│   │   ├── Seventh.pdf
+│   │   └── Seventh.tex
+│   ├── Program8/
+│   │   ├── Eight.pdf
+│   │   └── Eight.tex
+│   ├── Program9/
+│   │   ├── Ninth.pdf
+│   │   ├── Ninth.tex
+│   │   └── P9.bib
+│   ├── Program10/
+│   │   ├── Tenth.pdf
+│   │   └── Tenth.tex
+│   ├── Program11/
+│   │   ├── Eleventh.pdf
+│   │   └── Eleventh.tex
+│   ├── Program12a/
+│   │   ├── P9.bib
+│   │   ├── twevelth_a.pdf
+│   │   └── twevelth_a.tex
+│   ├── Program12b/
+│   │   ├── P9.bib
+│   │   ├── Twevelthb.pdf
+│   │   └── Twevelthb.tex
+│   ├── vcet_logo.png
+│   └── vtu.jpeg
+├── LICENSE
+└── README.md
+```
 
 
 ---
