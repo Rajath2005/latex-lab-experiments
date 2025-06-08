@@ -47,9 +47,9 @@ Welcome to the LaTeX Lab Program repository. Click on "📄 View Code" to see th
 | 5     | Construct a student marks table with appropriate headings.                             | [📄 View Code](Latex_lab/Program5/Fifth.tex) | [📤 View Output](Latex_lab/Program5/Fifth.pdf) |
 | 6     | Insert side-by-side graphics using the subfigure environment.                          | [📄 View Code](Latex_lab/Program6/Sixth.tex) | [📤 View Output](Latex_lab/Program6/Sixth.pdf) |
 | 7     | Display two mathematical equations using LaTeX math mode.                              | [📄 View Code](Latex_lab/Program7/Seventh.tex) | [📤 View Output](Latex_lab/Program7/Seventh.pdf) |
-| 8     | Demonstrate the use of theorems, definitions, corollaries, and lemmas.                 | [📄 View Code](Program8/main.tex) | [📤 View Output](Program8/main.pdf) |
-| 9     | Cite at least 10 sources and generate a bibliography.                                  | [📄 View Code](Program9/main.tex) | [📤 View Output](Program9/main.pdf) |
-| 10    | Create a tree diagram/hierarchical structure using TikZ.                               | [📄 View Code](Program10/main.tex) | [📤 View Output](Program10/main.pdf) |
+| 8     | Demonstrate the use of theorems, definitions, corollaries, and lemmas.                 | [📄 View Code](Latex_lab/Program8/Eight.tex) | [📤 View Output](Latex_lab/Program8/Eight.pdf) |
+| 9     | Cite at least 10 sources and generate a bibliography.                                  | [📄 View Code](Latex_lab/Program9/Ninth.tex) | [📤 View Output](Latex_lab/Program9/Ninth.pdf) |
+| 10    | Create a tree diagram/hierarchical structure using TikZ.                               | [📄 View Code](Latex_lab/Program10/Tenth.tex) | [📤 View Output](Latex_lab/Program10/Tenth.pdf) |
 | 11    | Write and format an algorithm using algorithmic/algorithm2e.                           | [📄 View Code](Program11/main.tex) | [📤 View Output](Program11/main.pdf) |
 | 12    | Design a report and article format using appropriate LaTeX commands.                   | [📄 View Code](Program12/main.tex) | [📤 View Output](Program12/main.pdf) |
 
