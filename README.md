@@ -34,14 +34,6 @@
 - Academic theses and dissertations
 - Mathematical and scientific documents
 - Professional presentations
-
-Unlike word processors, LaTeX focuses on content over formatting, allowing you to create beautifully typeset documents with:
-- **Mathematical equations** that look publication-ready
-- **Automatic numbering** for sections, figures, and references  
-- **Consistent formatting** throughout your document
-- **Cross-references** that update automatically
-- **Professional layouts** used in academic journals worldwide
-
 ---
 
 ## 🏫 About This Course
@@ -89,15 +81,6 @@ This repository covers the VTU course "Technical Writing Using LaTeX" (BCSL456D)
 </p>
 
 📋 **Complete viva question bank available in:** `LATEX-VIVA.pdf`
-
-### Key Topics to Master:
-- LaTeX document structure and compilation process
-- Mathematical typesetting and equation environments
-- Table and figure insertion with proper referencing
-- Bibliography management and citation styles
-- Package usage and custom commands
-- TikZ graphics and algorithm formatting
-
 ---
 
 ## 🚀 Quick Start with Overleaf
@@ -194,34 +177,9 @@ We welcome contributions from fellow students and LaTeX enthusiasts! Here's how 
 
 ---
 
-## 👥 Contributors
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/group.png" alt="Contributors"/>
-</p>
-
-We appreciate all contributors who help make this repository better! 
-
-**Want to see your name here?** 
-- ⭐ Star this repository if you find it helpful
-- 🍴 Fork and contribute to the project
-- 📢 Share with your classmates and friends
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- 🏫 **VTU** for providing the comprehensive LaTeX syllabus
-- 🌐 **Overleaf Team** for the excellent online LaTeX editor
-- 📚 **LaTeX Community** for extensive documentation and support
-- 👨‍🏫 **Faculty Members** for guidance and course structure
-- 👨‍💻 **Open Source Community** for making LaTeX accessible to everyone
 
 ---
 
